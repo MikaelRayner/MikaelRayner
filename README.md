@@ -36,8 +36,8 @@ Desenvolvedor Full Stack JavaScript em Formação
 
 "Estou aberto a oportunidades de estágio, desafios de nível júnior, colaborações em projetos open-source ou simplesmente para trocar experiências sobre tecnologia."
 
-* 💼 LinkedIn: [gustavo-martins](https://linkedin.com) (Provisório)
-* 📧 E-mail: [grpmart007@gmail.com](mailto:grpmart007@gmail.com)
+* 💼 LinkedIn: [Mikael Rayner](www.linkedin.com/in/mikael-rayner-20400439b) (Provisório)
+* 📧 E-mail: [mikaelrayneroliveira92@gmail.com](mikaelrayneroliveira92@gmail.com)
 
 ---
 
